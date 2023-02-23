@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Alginest
 - 👀 I’m interested in Front End Development.
-- 🌱 I’m currently learning  html, css, javascript,react.
+- 🌱 I’m currently learning  Typescript.
 - 💞️ I’m looking to collaborate on anything that intrests me.
+- My Website: http://aldindurakovic.com/
 -
 
 <!---
